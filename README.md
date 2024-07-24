@@ -62,8 +62,7 @@
     <main>
         <section id="sobre-mim">
             <h1>Sobre Mim</h1>
-            <p>Olá! Meu nome é [Seu Nome]. Eu sou apaixonado por [seus hobbies]. No meu tempo livre, gosto de [atividades que você gosta de fazer].</p>
-            <p>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Adoro [algo que você gosta muito] e estou sempre disposto a compartilhar meu conhecimento e experiências com os outros.</p>
+            <p>Olá! Meu nome é Ayumi Chino, mas prefiro que me chamem apenas de Ayumi. Meus hobbies envolve bastante o "mundo geek", como por exemplo, gosto de jogar jogos online, ler, ver animes, filmes e séries. No meu tempo livre, pratico Muay Thai e pretendo competir futuramente.</p>
         </section>
     </main>
 </body>
