@@ -68,3 +68,44 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação</title>
+</head>
+<body>
+    <main>
+        <section id="formacao">
+            <h1>Formação</h1>
+            <h2>Educação</h2>
+            <p>Comecei minha graduação em ADS (Análise e Desenvolvimento de Sistemas) na Una, e agora imigrei para a Uninter onde pretendo terminar minha graduação.</p>
+            <h2>Idiomas</h2>
+            <p>Eu falo inglês intermediário e japonês básico.</p>
+        </section>
+    </main>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+
+    <main>
+        <section id="contato">
+            <h1>Contato</h1>
+            <form action="ayumichino98@gmail.com" method="post" enctype="text/plain">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+                <button type="submit">Enviar</
